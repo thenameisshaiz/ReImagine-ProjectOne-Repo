@@ -42,10 +42,7 @@ body {
     width: 45%;
 }
 
-.book-btn:hover{
-    color:orange;
-    border:2px solid orange;
-}
+
 
 /* .page1 img{
     width: 100%;
@@ -62,12 +59,12 @@ body {
 
 .head2 {
     color: #ffffff;
-    font-size: 120px;
+    font-size: 90px;
 }
 
 .head3 {
     color: #ffffff;
-    font-size: 90px;
+    font-size: 80px;
     top: 10px;
 }
 
@@ -114,8 +111,8 @@ body {
     position: absolute;
     top: 0;
     left: 0;
-    width: 100%;
-    height: 100%;
+    width: 80%;
+    height: 80%;
     border-radius: 10px;
     object-fit: cover;
     transition: 2s;
@@ -132,7 +129,7 @@ body {
     height: 100%;
     /* background-color: rgb(255, 94, 0); */
     background-color: rgb(15, 15, 15);
-    margin-bottom: 40px;
+    margin-bottom: 10%;
 }
 
 .page2-heading {
@@ -225,6 +222,7 @@ body {
     width: 100vw;
     overflow: hidden;
     position: relative;
+    margin-top: 5%;
 }
 .carousel .list .item{
     width: 100%;
