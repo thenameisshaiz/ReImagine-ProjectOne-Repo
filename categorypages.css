@@ -1,0 +1,368 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html, body {
+    height: 100%;
+    width: 100%;
+    background-color: rgb(15, 15, 15);
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+#nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px 30px;
+    background-color: black;
+    color: white;
+}
+
+#tabs {
+    display: flex;
+    gap: 50px;
+}
+.tittle1{
+    color: white;
+    text-align: center;
+    margin-top: 50px;
+}
+.name1{
+    color: white;
+
+}
+.name1:hover{
+    color: #bbbbbb;
+    margin-left: 12px;
+}
+.detail1{
+    margin-top: 30px;
+    font-size: 12px;
+}
+.detail1:hover{
+    color: #bbbbbb;
+    margin-left: 12px;
+}
+.image1{
+    margin-top: 40px;
+    width: 40%;
+    margin-left: 110px;
+    transition: transform 0.2s ease;
+}
+.image1:hover{
+    transform: scale(1.2);   
+ }
+.image2{
+    margin-top: 40px;
+    width: 40%;
+    height: 325px;
+    margin-right: 100px;
+    transition: transform 0.2s ease;
+}
+.image2:hover{
+    transform: scale(1.2);   
+ }
+.gap1{
+    display: flex;
+    gap: 60px;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.image3{
+    margin-top: 40px;
+    width: 40%;
+    margin-left: 110px;
+    transition: transform 0.2s ease;
+}
+.image3:hover{
+    transform: scale(1.2);   
+ }
+.image4{
+    margin-top: 40px;
+    width: 40%;
+    height: 325px;
+    margin-right: 100px;
+    transition: transform 0.2s ease;
+}
+.image4:hover{
+    transform: scale(1.2);   
+ }
+.gap2{
+    display: flex;
+    gap: 60px;
+    justify-content: center;
+    align-items: center;
+    
+}
+.tittle2{
+    color: white;
+    text-align: center;
+    margin-top: 50px;
+}
+.name2{
+    color: white;
+
+}
+.name2:hover{
+    color: #bbbbbb;
+    margin-left: 12px;
+}
+.detail2{
+    margin-top: 30px;
+    font-size: 12px;
+}
+.detail2:hover{
+    color: #bbbbbb;
+    margin-left: 12px;
+}
+
+    
+.image5{
+    margin-top: 40px;
+    width: 40%;
+    height: 300px;
+    margin-left: 110px;
+    transition: transform 0.2s ease;
+}
+.image5:hover{
+    transform: scale(1.2);   
+ }
+.image6{
+    margin-top: 40px;
+    width: 40%;
+    height: 300px;
+    margin-right: 100px;
+    transition: transform 0.2s ease;
+}
+.image6:hover{
+    transform: scale(1.2);   
+ }
+.gap3{
+    display: flex;
+    gap: 60px;
+    justify-content: center;
+    align-items: center;
+    
+}
+.tittle3{
+    color: white;
+    text-align: center;
+    margin-top: 50px;
+}
+.name3{
+    color: white;
+
+}
+.name3:hover{
+    color: #bbbbbb;
+    margin-left: 12px;
+}
+.detail3{
+    margin-top: 30px;
+    font-size: 12px;
+}
+.detail3:hover{
+    color: #bbbbbb;
+    margin-left: 12px;
+}
+
+.image7{
+    margin-top: 40px;
+    width: 40%;
+    height: 300px;
+    margin-left: 110px;
+    transition: transform 0.2s ease;
+}
+.image7:hover{
+    transform: scale(1.2);   
+ }
+.image8{
+    margin-top: 40px;
+    width: 40%;
+    height: 300px;
+    margin-right: 100px;
+    transition: transform 0.2s ease;
+}
+.image8:hover{
+    transform: scale(1.2);   
+ }
+.gap4{
+    display: flex;
+    gap: 60px;
+    justify-content: center;
+    align-items: center;
+    
+}
+.tittle4{
+    color: white;
+    text-align: center;
+    margin-top: 50px;
+}
+.name4{
+    color: white;
+
+}
+.name4:hover{
+    color: #bbbbbb;
+    margin-left: 12px;
+}
+.detail4{
+    margin-top: 30px;
+    font-size: 12px;
+}
+.detail4:hover{
+    color: #bbbbbb;
+    margin-left: 12px;
+}
+
+
+.image9{
+    margin-top: 60px;
+    width: 70%;
+    /* height: 300px; */
+    margin-left: 110px;
+    transition: transform 0.2s ease;
+    margin-bottom: 60px;
+}
+.image9:hover{
+    transform: scale(1.2);   
+ }
+/* .image8{
+    margin-top: 40px;
+    width: 40%;
+    height: 300px;
+    margin-right: 100px;
+    transition: transform 0.2s ease;
+}
+.image8:hover{
+    transform: scale(1.2);   
+ } */
+.gap5{
+    display: flex;
+    gap: 60px;
+    justify-content: center;
+    align-items: center;
+    
+}
+.tittle5{
+    color: white;
+    text-align: center;
+    margin-top: 50px;
+}
+.name5{
+    color: white;
+
+}
+.name5:hover{
+    color: #bbbbbb;
+    margin-left: 12px;
+}
+.detail5{
+    margin-top: 30px;
+    font-size: 12px;
+}
+.detail5:hover{
+    color: #bbbbbb;
+    margin-left: 12px;
+}
+
+
+/* Footer */
+
+.container1 {
+    max-width: 1170px;
+    /* background-color: red; */
+    margin: auto;
+}
+.container1 h1{
+    color: rgb(252, 252, 252);
+    padding-bottom: 50px;
+}
+.row1 {
+    display: flex;
+    flex-wrap: wrap;
+}
+ul{
+    list-style: none;
+}
+.footer {
+    background-color: black;
+    padding: 70px 0;
+}
+.footer-col {
+    width: 25%;
+    padding: 0 15px;
+}
+.footer-col h4 {
+    font-size: 18px;
+    color: #ffffff;
+    text-transform: capitalize;
+    margin-bottom: 35px;
+    font-weight: 500;
+    position: relative;
+}
+.footer-col h4::before{
+    content: '';
+    position: absolute;
+    left: 0;
+    bottom: -10px;
+    background-color: #e91e63;
+    height: 2px;
+    box-sizing: border-box;
+    width: 50px;
+}
+.footer-col ul li:not(:last-child){
+    margin-bottom: 10px;
+}
+.footer-col ul li a {
+    font-size: 16px;
+    text-transform: capitalize;
+    color: #ffffff;
+    text-decoration: none;
+    font-weight: 300;
+    color: #bbbbbb;
+    display: block;
+    transition: all 0.3s ease;
+}
+.footer-col ul li a:hover{
+    color: #ffffff;
+    padding-left: 8px;
+    
+}
+.footer-col .social-links a {
+    display: inline-block;
+    height: 40px;
+    width: 40px;
+    background-color: rgba(255, 255, 255, 0.2);
+    margin: 0 10px 10px 0;
+    text-align: center;
+    line-height: 40px;
+    border-radius: 50%;
+    color: #ffffff;
+    transition: all 0.5s ease;
+}
+.footer-col .social-links a:hover{
+    color: #24262b;
+    background-color: #ffffff;
+}
+
+
+@media(max-width: 767px){
+    .footer-col {
+        width: 50%;
+        margin-bottom: 30px;
+    }
+}
+@media(max-width: 574px){
+    .footer-col {
+        width: 100%;
+    }
+}
